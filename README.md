@@ -5,6 +5,8 @@
 성장하는 개발자를 목표로 하는 최서현입니다 :sunflower:</b>
 
 ### Tech.
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+
  <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/> 
 
 <img src="https://img.shields.io/badge/JPA-4FC08D?style=flat&logo=jpa&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/MyBatis-003545?style=flat&logo=mybatis&logoColor=white"/> 
