@@ -1,8 +1,8 @@
 <div align=center>
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Welcome!&fontSize=40)
  
-<b>안녕하세요!
-성장하는 개발자를 목표로 하는 최서현입니다 :blossom: </b>
+안녕하세요!
+성장하는 개발자를 목표로 하는 최서현입니다 :blossom:
 
 ### Tech
  <img src="https://img.shields.io/badge/Java-3178C6?style=flat&logo=java&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/> 
