@@ -1,5 +1,5 @@
 <div align=center>
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Welcome!&fontAlignY=20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Welcome!&fontSize=40)
 <b>안녕하세요!
 성장하는 개발자를 목표로 하는 최서현입니다 :blossom: </b>
 
