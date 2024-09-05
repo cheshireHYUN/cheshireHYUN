@@ -10,8 +10,10 @@
 
 또한 Redis, ELK 등 다양한 기술을 활용하여 프로젝트시 발생하는 문제들을 해결합니다. 
 
-백엔드 외에도 Thymeleaf, JSP를 이용한 서버사이드 렌더링, Vue.js를 활용한 프론트엔드 개발 경험을 보유하고 있습니다.
+백엔드 외에도 Thymeleaf, JSP를 이용한 SSR과 Vue.js를 활용한 CSR 개발 경험을 보유하고 있습니다.
 
-RaspberryPI를 활용해 개인 홈서버를 구축하였으며, 이를 통해 [빼곡](https://github.com/Boggle-Boggle) 앱의 서비스를 준비 중입니다. 
+AWS를 활용한 배포 경험이 있습니다. AWS EC2, RDS, S3 등의 기능을 활용하여 서비스를 개발했습니다.
+
+현재는 RaspberryPI를 활용해 개인 홈서버를 구축하였으며, 이를 통해 [빼곡](https://github.com/Boggle-Boggle) 앱의 서비스 런칭을 준비 중입니다. 
 
 </div>
