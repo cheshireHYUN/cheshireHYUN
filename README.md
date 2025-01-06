@@ -10,7 +10,7 @@
 
 #### Backend
 - JPA를 활용한 [객체지향적 Entity 구조 설계](https://steam-egg.tistory.com/19)에 특히 능합니다.
-- 대부분의 프로젝트에서 기술리더 역할을 하며, 다양한 Rest API를 개발을 도맡았습니다.
+- 대부분의 프로젝트에서 기술리더 역할을 하며 개발문화 정립, 각종 문서화 및 REST API 개발을 도맡았습니다.
 - Redis, [ELK를 활용한 성능 개선 경험](https://steam-egg.tistory.com/18)이 있고, 다양한 기술에 큰 관심을 가지고 공부합니다.
 
 #### Frontend
