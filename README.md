@@ -22,6 +22,6 @@
 - Jenkins와 GitHub Actions를 활용해 [CI/CD 환경을 구축](https://steam-egg.tistory.com/21)합니다.
 - Docker를 통한 일관된 배포 환경을 구성합니다.
 
-#### 진행 중
-- RaspberryPI를 활용한 [개인 홈서버](https://steam-egg.tistory.com/20)를 구축했습니다.
-- [빼곡](https://github.com/Boggle-Boggle) 앱 서비스의 런칭을 준비중 입니다.
+#### 진행중
+- 현재 2000+명의 가입자수를 보유한 독서기록앱 [빼곡](https://github.com/Boggle-Boggle) 서비스를 운영중입니다!
+- 의료정보플랫폼 모두닥에 합류하여 3개월간의 풀스택 개발을 진행했습니다!
