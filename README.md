@@ -6,8 +6,8 @@ SSAFY 및 실서비스 개발과 인턴경험을 통해 백엔드, 프론트엔�
 
 
 #### 진행중
-- 현재 2000+명의 가입자수를 보유한 독서기록앱 [빼곡](https://github.com/Boggle-Boggle) 서비스를 운영중입니다!
-- 의료정보플랫폼 [모두닥](https://modoodoc.career.greetinghr.com/ko/home)에 합류하여 3개월간의 풀스택 개발을 진행했습니다!
+- 현재 2000+명의 가입자수를 보유한 독서기록앱 [빼곡](https://github.com/Boggle-Boggle) 서비스를 운영중입니다.
+- 의료정보플랫폼 [모두닥](https://modoodoc.career.greetinghr.com/ko/home)에 합류하여 3개월동안 글로벌 프로덕트 및 건강검진 프로덕트의 Full-stack 개발을 진행했습니다.
 
 #### Backend
 - JPA를 활용한 [객체지향적 Entity 구조 설계](https://steam-egg.tistory.com/19)에 특히 능합니다.
