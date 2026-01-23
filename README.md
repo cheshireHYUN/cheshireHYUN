@@ -2,7 +2,6 @@
 <pre>1,000명의 사용자가 ‘계속 쓰는’ 서비스를 운영중입니다.
 더 많은 사용자가 안정적으로 사용할 수 있는 서비스를 만들기 위해 노력하고 있습니다!</pre>
 
-</br>
 
 ## Experience
 **모두닥  |  2025.10 ~ 2026.01**
@@ -21,7 +20,6 @@
   - 정보통신공학 전공
   - 교내 SW봉사단, SW튜터 활동 등 수행
 
-</br>
 
 ## Product
 <table>
@@ -46,9 +44,9 @@
   </tr>
 </table>
 
-</br>
-
 ## Awards
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cheshireHYUN)](https://solved.ac/cheshireHYUN/)
+</br>
 - 2024 대전광역시 공공데이터 활용 창업 경진대회 | 우수상 | 2024.07
 - SSAFY 전국결선대회 | 전국 159팀중 3위 | 2024.05
 - SSAFY 기업연계 프로젝트 | 우수상 | 2024.05
