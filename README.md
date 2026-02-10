@@ -42,6 +42,15 @@
       <a href="https://apps.apple.com/kr/app/%EB%B0%A9%ED%95%99%EC%88%99%EC%A0%9C-%EC%84%A0%EC%83%9D%EB%8B%98ai%EC%99%80%EC%9D%98-%EC%9D%BC%EA%B8%B0/id6747587236" ><img src="https://img.shields.io/badge/App store-0D96F6?style=flat&logo=appstore&logoColor=white"></a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <img width="50" alt="스크린샷 2026-01-23 오후 2 20 59" src="https://github.com/user-attachments/assets/837b7dbe-7ad0-4257-bb38-51f56ad21027" />
+    </td>
+    <td>
+      Watch Petto - 워치전용 다마고치앱</br>
+      <a href="https://apps.apple.com/kr/app/watch-petto/id6758577635" ><img src="https://img.shields.io/badge/App store-0D96F6?style=flat&logo=appstore&logoColor=white"></a>
+    </td>
+  </tr>
 </table>
 
 ## Awards
