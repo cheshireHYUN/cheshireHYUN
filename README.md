@@ -5,7 +5,7 @@
 
 ## Experience
 **무신사  |  2026.03 ~ ing**
-  - 온라인 패션 플랫폼 [무신사](https://github.com/musinsa)의 AI Native 인턴으로 합류
+  - 온라인 패션 플랫폼 [무신사](https://corp.musinsa.com/)의 AI Native 인턴으로 합류
 
 **모두닥  |  2025.10 ~ 2026.01**
   - 병원정보 플랫폼 [모두닥](https://modoodoc.career.greetinghr.com/ko/home)의 Full-Stack 엔지니어 인턴으로 합류
