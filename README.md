@@ -8,7 +8,7 @@
   - 온라인 패션 플랫폼 [무신사](https://corp.musinsa.com/)의 AI Native 인턴으로 합류
 
 **모두닥  |  2025.10 ~ 2026.01**
-  - 병원정보 플랫폼 [모두닥](https://modoodoc.career.greetinghr.com/ko/home)의 Full-Stack 엔지니어 인턴으로 합류
+  - 병원정보 플랫폼 [모두닥](https://modoodoc.career.greetinghr.com/ko/home#69eaddf9-800d-4e3b-9ea1-99f7f211417f)의 Full-Stack 엔지니어 인턴으로 합류
   - 글로벌 프로덕트 및 건강검진 프로덕트의 기획/개발 전과정에 참여
 
 **빼곡(독서기록 앱)  |  2024.11 ~ 2025.02(운영중)**
